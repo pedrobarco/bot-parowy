@@ -1,0 +1,25 @@
+{
+  "name": "bot-parowy",
+  "version": "1.0.0",
+  "description": "Inventory management bot for Steam",
+  "main": "bot.js",
+  "scripts": {
+    "bot": "node --harmony ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedrobarco/bot-parowy.git"
+  },
+  "author": "Pedro Barco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedrobarco/bot-parowy/issues"
+  },
+  "homepage": "https://github.com/pedrobarco/bot-parowy#readme",
+  "dependencies": {
+    "steam-totp": "^2.0.1",
+    "steam-tradeoffer-manager": "^2.8.1",
+    "steam-user": "^3.21.7",
+    "steamcommunity": "^3.32.0"
+  }
+}

@@ -1,0 +1,10 @@
+{
+    "username": "STEAMUSERNAME",
+    "password":  "STEAMPASSWORD",
+    "sharedSecret": "SDASHAREDSECRET",
+    "identitySecret": "SDAIDENTITYSECRET",
+    "ownerID": "ADMINSTEAMID",
+    "handler": "PREFIX", 
+    "appID": "STEAMGAMEID", 
+    "contextID": "2"
+}
